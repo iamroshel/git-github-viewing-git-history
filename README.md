@@ -1,4 +1,4 @@
-# Viewing the Git Commit History
+# Viewing the Git Commit History c
 
 ## Learning Goals
 
